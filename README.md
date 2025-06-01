@@ -39,8 +39,8 @@ Autonomous Infrastructure Threat Detection &amp; Response Platform...... WORK OF
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/Davidsleep101/Sentinel-grid.git
-cd Sentinel-grid
+[git clone https://github.com/Davidsleep101/Sentinel-grid.git
+cd Sentinel-grid](https://github.com/Davidsleep101/Sentinel-grid.git)
  
  
  
